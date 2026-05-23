@@ -1,0 +1,31 @@
+title: Manifest Zones
+tags: Mechanic Planar Magic Geography
+created: 20260109000000000
+modified: 20260519140000000
+type: text/vnd.tiddlywiki
+
+Manifest zones are geographic areas where the boundary between [[Eberron]] and one of the Outer Planes (or [[Khyber]]/[[Siberys]]) is thin. They create localized magical effects that can be either beneficial or hazardous.
+
+!! How They Work
+The thirteen planes of the Eberron cosmology move through periods of coterminous (close) and remote (distant) alignment. In a manifest zone, the associated plane's influence is always present regardless of the current alignment cycle.
+
+!! Notable Manifest Zones
+|Location|Plane|Effect|
+|[[Sharn]]|Syrania (Azure Sky)|Empowers flight and levitation; allows Sharn's impossible tower heights|
+|[[Thelanis Crossings]]|Thelanis (Faerie)|Fey intrusions, enchantment amplification|
+|[[Dreadhold]]|Dolurrh (Realm of the Dead)|Suppresses resurrection magic; used deliberately for the prison|
+|[[The Mournland]] (contested)|Mabar (Endless Night)|Wounds don't heal; light is dimmed; undead are strengthened|
+|[[Manifest, Aundair]]|Fernia (Sea of Fire)|Pyromantic amplification; extreme heat|
+
+!! Game Mechanics
+In a manifest zone:
+* Spells of the associated plane's domain are heightened (cast at +1 level)
+* Opposed spells may be suppressed or require concentration checks
+* Some zones grant passive environmental effects (flight in Sharn, no healing in Mournland)
+* Portals to the associated plane may be opened more easily
+
+!! Connections
+* [[Sharn]] (most famous example)
+* [[The Mournland]] (Mabar zone)
+* [[Dragonmarks]] (some marks interact with manifest zones)
+* [[The Twelve]] (maps and tracks major manifest zones)
