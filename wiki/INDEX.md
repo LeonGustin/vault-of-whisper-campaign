@@ -1,7 +1,7 @@
 # Vault of Whisper Campaign — Wiki Index
 
-**Last Updated:** 2026-05-23
-**Total Pages:** 8
+**Last Updated:** 2026-05-23  
+**Total Pages:** 8  
 **Ingest Source:** Eberron TiddleWiki (`sources/eberron/eberron_tw/`)
 
 ---
@@ -52,7 +52,7 @@
 
 ## Campaign Notes
 
-The Vault of Whisper campaign is set in the Eberron setting, shortly after the end of the Last War (996 YK). The party is based in [[Sharn]] and is investigating the [[Vault of Whispers]] — a pre-Galifaran repository of bound extraplanar entities rumored to be located in [[The Mournland]].
+The Vault of Whisper campaign is set in the Eberron setting, shortly after the end of the Last War (996 YK). The party is based in [[Sharn]] and is investigating the [[Vault of Whispers]] — a pre-Galifaran repository of bound extraplanar entities rumored to be located in the [[Mournland]].
 
 Key threads:
 - **The Whisper** — who are they, and why do they share the Vault's name?

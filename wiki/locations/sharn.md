@@ -9,8 +9,8 @@ ingest_date: 2026-05-23
 
 # Sharn, City of Towers
 
-**Type:** City — Major Metropolis
-**Nation:** [[Breland]]
+**Type:** City — Major Metropolis  
+**Nation:** [[Breland]]  
 **Manifest Zone:** [[Syrania]] (Azure Sky)
 
 ## Overview

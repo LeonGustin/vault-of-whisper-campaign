@@ -9,7 +9,7 @@ ingest_date: 2026-05-23
 
 # Dragonmarks
 
-**Type:** Mechanic — Hereditary Magic / Social System
+**Type:** Mechanic — Hereditary Magic / Social System  
 **Scope:** World-spanning (all of Khorvaire)
 
 ## Overview

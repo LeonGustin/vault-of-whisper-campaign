@@ -9,8 +9,8 @@ ingest_date: 2026-05-23
 
 # The Mournland
 
-**Type:** Region — Hazardous / Contested
-**Former Nation:** [[Cyre]]
+**Type:** Region — Hazardous / Contested  
+**Former Nation:** [[Cyre]]  
 **Manifest Zone:** [[Mabar]] (Endless Night) — suspected
 
 ## Overview

@@ -9,7 +9,7 @@ ingest_date: 2026-05-23
 
 # Manifest Zones
 
-**Type:** Mechanic — Planar Magic / Environmental
+**Type:** Mechanic — Planar Magic / Environmental  
 **Scope:** Specific geographic locations across Eberron
 
 ## Overview

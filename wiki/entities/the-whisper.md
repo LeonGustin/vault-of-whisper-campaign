@@ -9,8 +9,8 @@ ingest_date: 2026-05-23
 
 # The Whisper
 
-**Type:** NPC — Information Broker / Unknown Alignment
-**Affiliation:** None confirmed
+**Type:** NPC — Information Broker / Unknown Alignment  
+**Affiliation:** None confirmed  
 **Location:** [[Sharn]], [[Lower Dura]] (Callestan district)
 
 ## Overview
