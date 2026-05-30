@@ -1,7 +1,7 @@
 # Vault of Whisper Campaign — Wiki Index
 
-**Last Updated:** 2026-05-23  
-**Total Pages:** 8  
+**Last Updated:** 2026-05-30  
+**Total Pages:** 13  
 **Ingest Source:** Eberron TiddleWiki (`sources/eberron/eberron_tw/`)
 
 ---
@@ -10,14 +10,29 @@
 
 | Category | Count |
 |----------|-------|
-| Entities (NPCs) | 3 |
-| Locations | 3 |
-| Mechanics | 2 |
-| **Total** | **8** |
+| Entities (NPCs) | 5 |
+| Locations | 5 |
+| Mechanics | 3 |
+| **Total** | **13** |
 
 ---
 
 ## Recent Changes
+
+### 2026-05-30 — Weekly Ingest (5 new pages)
+
+**Entities:**
+- [The Lord of Blades](entities/the-lord-of-blades.md) — warforged warlord, Mournland antagonist
+- [The Daughters of Sora Kell](entities/the-daughters-of-sora-kell.md) — hag rulers of Droaam, oracular threat
+
+**Locations:**
+- [Cyre](locations/cyre.md) — destroyed nation, context for the Mournland and diaspora
+- [Vault of Whispers](locations/vault-of-whispers.md) — campaign-central arcane repository
+
+**Mechanics:**
+- [Warforged](mechanics/warforged.md) — constructed humanoid race, post-war status and factions
+
+---
 
 ### 2026-05-23 — Initial Ingest (8 pages)
 
@@ -39,13 +54,18 @@
 
 ## All Pages (A–Z)
 
+- [Cyre](locations/cyre.md)
 - [Dragonmarks](mechanics/dragonmarks.md)
 - [Lady Elaydren d'Cannith](entities/lady-elaydren-dcannith.md)
 - [Manifest Zones](mechanics/manifest-zones.md)
 - [Mordain the Fleshweaver](entities/mordain-the-fleshweaver.md)
 - [Sharn](locations/sharn.md)
+- [The Daughters of Sora Kell](entities/the-daughters-of-sora-kell.md)
+- [The Lord of Blades](entities/the-lord-of-blades.md)
 - [The Mournland](locations/the-mournland.md)
 - [The Whisper](entities/the-whisper.md)
+- [Vault of Whispers](locations/vault-of-whispers.md)
+- [Warforged](mechanics/warforged.md)
 - [Wroat](locations/wroat.md)
 
 ---
