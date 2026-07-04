@@ -1,6 +1,6 @@
 # Vault of Whisper Campaign — Wiki Index
 
-**Last Updated:** 2026-06-27  
+**Last Updated:** 2026-07-04  
 **Total Pages:** 8  
 **Ingest Source:** Eberron TiddleWiki (`sources/eberron/eberron_tw/`)
 
@@ -18,6 +18,10 @@
 ---
 
 ## Recent Changes
+
+### 2026-07-04 — Weekly Check (0 new pages)
+
+No new or updated tiddlers found in `sources/eberron/eberron_tw/`. All 8 source tiddlers carry `modified:` timestamps predating the 2026-05-23 ingest. Wiki is current.
 
 ### 2026-06-27 — Weekly Check (0 new pages)
 
